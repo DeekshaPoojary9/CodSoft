@@ -1,2 +1,2 @@
 # CodSoft
-Internship
+This repository contains my internship projects
